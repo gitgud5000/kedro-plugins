@@ -1,0 +1,10 @@
+{
+    "python.testing.pytestArgs": [
+        "-s",
+        "kedro-datasets/tests/ibis",
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    // "pylint.enabled": false,
+    
+}
